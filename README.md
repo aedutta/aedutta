@@ -1,7 +1,8 @@
-Hi there! 👋
-I love building things (hardware & software) and solving new problems. Feel free to reach out: 
+Hi there 👋!
+I love building hardware & software solutions and have a keen interest in physics and math. If you'd like to connect or collaborate, here's how you can reach me: 
 - Email: ashmit.dutta105@gmail.com / ashmitd2@illinois.edu 
-- Dicord: aedutta
+- Discord: aedutta
+- LinkedIn: https://www.linkedin.com/in/ashmitdutta/
 <!--
 **aedutta/aedutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
